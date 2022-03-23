@@ -1,6 +1,5 @@
-<p align = "cenetr>
+
 # 基于云平台的智能语音交互式灌溉系统
-            </p>
 
 [Demo视频演示](https://www.bilibili.com/video/BV1aV411W7Gf?share_source=copy_web)
    
